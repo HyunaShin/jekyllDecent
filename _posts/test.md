@@ -1,7 +1,7 @@
 ---
 layout:            post
 title:             "Test"
-date:              2018-07-30 13:10:00 +0300
+date:              2018-09-01 13:10:00 +0300
 tags:              simple chatbot
 category:          Tutorials
 math:              false
